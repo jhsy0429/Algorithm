@@ -1,4 +1,4 @@
-## 처음 풀 때
+################################################### 처음 풀 때
 count = 0
 student = []
 while count!=28:
@@ -16,7 +16,7 @@ for i in range(31):
     if num[i] == 0:
         print(i)
         
-## 다시 풀 때
+################################################### 다시 풀 때
 student = [i for i in range(1, 31)]
 for _ in range(28):
     num = int(input())
